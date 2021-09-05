@@ -13,4 +13,7 @@ Gitの練習をしていきます。
 　git log --oneline 　ログを1行で表示する。
 　git log -p ファイル名　　ファイルの差分が分かる
   git log -n 3　3履歴分を表示する。
+・git diff
+　変更差分を確認する。
+　git diff HEAD ステージとコミットの差分
 
